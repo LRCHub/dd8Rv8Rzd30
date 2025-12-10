@@ -1,0 +1,79 @@
+# Tade Dust – All My Life
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yo, Aight
+MIC 待ち on the stage
+目と目で話す conversation
+あの頃はぶっ飛んだ days
+Stupidity may be contagious
+サイコロ握ったその手で変えてきた chance
+But ない安定は
+朝昼晩やることやったらゆっくり lay back
+うまくいくことばかりなら
+それはそれで楽しくないから
+Insta にあげる Pics like ハイカラ
+Bitch たちまじ興味ないさいなら
+灰皿積もる吸い殻と crutches
+鏡を見てるようだ友達
+全てが unlikely
+焦りじゃないけどもどかしい
+誰のせいでもないが
+誰かのせいにしたくなる気持ちもわかるよ
+逃れられない we live
+でも俺は俺を信じる
+類い稀な努力
+Back to the basic
+I'm not a such as gifted
+首元で光る TD
+それがいつかはなる VVS
+I've been doing my thing all my life
+Been here and there
+I've seen the sky
+Ain't one thing that I can not buy
+I've been doing my thing all my life
+Through ups and downs
+I came out fly (Yeah, ah)
+うまくいくことばかりなら
+それはそれで楽しくないから
+Insta にあげる Pics like ハイカラ
+Bitch たちまじ興味ないさいなら
+相変わらず背に腹変えられんしな
+与えられたこの体が
+朽ちるまで動かしては飼い慣らす
+当たり前、絶対もない
+この世がうんざりで塞いでたんだ耳
+心凍えそうで
+何も気にせず ただはしゃぎ遊んでた日々
+頭の中で rotate
+思い出し振り返るたまに昔
+タバコふかした公園
+No one comes here but 待ちぼうけ
+「終わったらしいよ」って聞いて
+割り切って次に向けるこの情熱
+冷めないうちに
+やることやってる地道に
+伝えたいこと言えるうちに
+口だけじゃなくてする形に
+(Ah, yeah)
+昨日 今日 明日 明後日
+気づけば過ぎ去っていく
+捨て身覚悟 当たって砕ける
+その経験が俺の advantage
+I've been doing my thing all my life
+Been here and there
+I've seen thе sky
+Ain't one thing that I can not buy
+I've been doing my thing all my life
+Through ups and downs
+I camе out fly (Yeah, ah)
+うまくいくことばかりなら
+それはそれで楽しくないから
+Insta にあげる Pics like ハイカラ
+Bitch たちまじ興味ないさいなら
+相変わらず背に腹変えられんしな
+与えられたこの体が
+朽ちるまで動かしては飼い慣らす
+響かすこの声 Japan to worldwide
+```
