@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "All My Life",
+  "base_artist": "Tade Dust",
+  "createdAt": "2025-12-10T07:36:49.305326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/01_All_My_Life_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "Gigamesh",
+      "has_synced": true,
+      "path": "select/02_All_My_Life_Gigamesh.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "42 Dugg",
+      "has_synced": true,
+      "path": "select/03_All_My_Life_42_Dugg.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "Wynter Gordon",
+      "has_synced": true,
+      "path": "select/04_All_My_Life_Wynter_Gordon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tonight May Have To Last Me All My Life",
+      "artist": "The Avalanches",
+      "has_synced": false,
+      "path": "select/05_Tonight_May_Have_To_Last_Me_All_My_Life_The_Avalanches.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tonight May Have to Last Me All My Life",
+      "artist": "The Avalanches",
+      "has_synced": false,
+      "path": "select/06_Tonight_May_Have_to_Last_Me_All_My_Life_The_Avalanches.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I've Lived on a Dirt Road All My Life",
+      "artist": "Manitoba",
+      "has_synced": false,
+      "path": "select/07_I've_Lived_on_a_Dirt_Road_All_My_Life_Manitoba.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "Evan Dando",
+      "has_synced": true,
+      "path": "select/08_All_My_Life_Evan_Dando.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "Freeway feat. Nate Dogg",
+      "has_synced": false,
+      "path": "select/09_All_My_Life_Freeway_feat._Nate_Dogg.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All My Life (Feat. Nate Dogg)",
+      "artist": "Freeway",
+      "has_synced": false,
+      "path": "select/10_All_My_Life_(Feat._Nate_Dogg)_Freeway.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "Hoops",
+      "has_synced": true,
+      "path": "select/11_All_My_Life_Hoops.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "Van Canto",
+      "has_synced": true,
+      "path": "select/12_All_My_Life_Van_Canto.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/13_All_My_Life_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/14_All_My_Life_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All My Life",
+      "artist": "Run The Jewels",
+      "has_synced": true,
+      "path": "select/15_All_My_Life_Run_The_Jewels.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All My Life",
+      "artist": "Tade Dust, D3adStock",
+      "has_synced": false,
+      "path": "select/pl_01_All_My_Life_Tade_Dust,_D3adStock.txt"
+    }
+  ]
+}
